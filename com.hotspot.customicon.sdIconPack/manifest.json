@@ -1,0 +1,10 @@
+{
+  "Name": "Custom Icon Pack",
+  "Version": "1.0",
+  "Description": "Some custom icons.",
+  "Author": "HotSpot",
+  "URL": "",
+  "Icon": "icon.png",
+  "Images": "icons",
+  "License": "license.txt"
+}
